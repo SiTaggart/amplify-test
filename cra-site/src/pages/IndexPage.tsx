@@ -17,7 +17,7 @@ export const IndexPage: React.FC = () => {
   return (
     <Box margin="space60">
       <Heading as="h1" variant="heading10">
-        Start here.
+        Start here. Amplify!
       </Heading>
       <Button variant="primary">
         <PlusIcon decorative />

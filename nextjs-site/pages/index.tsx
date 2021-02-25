@@ -17,7 +17,7 @@ const Home: React.FC = () => {
       <Heading as="h1" variant="heading10">
         Welcome to the{' '}
         <Anchor href="https://paste.twilio.design" showExternal>
-          Paste Next.js App!
+          Paste Next.js App! Amplify!
         </Anchor>
       </Heading>
 
